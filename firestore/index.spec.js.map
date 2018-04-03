@@ -1,0 +1,1 @@
+{"version":3,"file":"index.spec.js","sourceRoot":"","sources":["../../../src/firestore/index.spec.ts"],"names":[],"mappings":"","sourcesContent":["export * from './firestore.spec';\nexport * from './document/document.spec';\nexport * from './collection/collection.spec';\n"]}
